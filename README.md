@@ -1,15 +1,11 @@
 <p align="center">
-  <img src="https://visit count.itsvg.in/api?id=armandpiano&label=Visitas%20Perfil&color=gradient&style=flat-square" alt="Contador de visitas" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Architecture/system_arch.gif" width="400px" alt="Arquitectura de Sistemas" />
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Architecture/system_arch.gif" width="450px" alt="Arquitectura de Sistemas" />
   <h1 align="center"><b>Armando Vazquez Rodriguez</b></h1>
   <p align="center">
-    <b>Senior Software Engineer | Software Architect | UX/UI Specialist | +9 Años de Experiencia</b>
+    <b>Software Development | Software Architect | AI-Driven Developer | +9 Años de Experiencia</b>
   </p>
   <p align="center">
-    <em>"Ingeniería robusta con un enfoque humano. Arquitecto soluciones eficientes que los usuarios aman."</em>
+    <b>Egresado de la UAM Iztapalapa</b>
   </p>
 </p>
 
@@ -20,110 +16,86 @@
   <a href="https://www.linkedin.com/in/armando-vazquez-rodriguez-armandpiano/">
     <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Ubicación-Ciudad_de_México_🇲🇽-lightgrey?style=flat-square&logo=googlemaps&logoColor=white" alt="Ubicación" />
 </p>
 
 ---
 
-## 💎 Mi Propuesta de Valor: La Intersección Perfecta
+## 🏗️ Especialista en Arquitectura de Software
+Mi enfoque se centra en la creación de sistemas mantenibles, escalables y con una lógica de negocio protegida. Domino los patrones que definen el software de clase mundial:
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9Ew529Z/giphy.gif" width="100px" alt="Diseño Atómico" />
-</p>
-
-Como **Egresado de la UAM Iztapalapa**, he perfeccionado una metodología que une la complejidad técnica con la simplicidad de uso. Mi enfoque no es solo el código, sino el ciclo completo del producto.
-
-### 🧩 Arquitectura & Diseño Sistémico
-- **Clean & Hexagonal Architecture:** Separación estricta de intereses para sistemas escalables, mantenibles y testeables.
-- **MVC & Por Capas:** Implementación de patrones clásicos optimizados para rendimiento.
-- **Atomic Design:** Construcción de interfaces desde átomos hasta organismos para una consistencia visual total y reutilización de componentes.
+* **Arquitectura Hexagonal (Ports & Adapters):** Desacoplamiento total del núcleo del negocio frente a agentes externos (BD, APIs, Frameworks).
+* **Clean Architecture:** Implementación de reglas de dependencia sólidas para facilitar el testing y la evolución del sistema.
+* **Arquitectura en Capas & MVC:** Estructuración lógica para aplicaciones robustas y organizadas.
+* **Sistematización Institucional:** Colaboración estratégica con la **UAM (CODDAA)** agilizando procesos con un stack moderno de Django y React.
 
 ---
 
-## 🛠️ The Tech Ecosystem (Visual Stack)
+## 🤖 IA & Agilidad en el Desarrollo
+Optimizo el ciclo de vida del software mediante el uso avanzado de **IA Generativa**, logrando entregas más rápidas y con mayor calidad técnica:
+* **Expertise en LLMs:** Implementación de flujos de trabajo con **Claude 3.5, Gemini 1.5 Pro, MiniMax y GPT-4o**.
+* **Aprendizaje Continuo:** Actualmente cursando dos diplomados de especialización: **Desarrollo Fullstack** e **Inteligencia Artificial**.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" alt="Frontend Tech" />
-  <br>
-  <strong>[ FRONTEND & UX ]</strong> React | Next.js | TypeScript | Tailwind | HTML/CSS | Atomic Design
-</p>
+---
+
+## 🛠️ The Professional Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,django,php,laravel" alt="Backend Tech" />
   <br>
-  <strong>[ BACKEND & LOGIC ]</strong> Node.js | NestJS | Python | Django | PHP | Laravel | CodeIgniter
+  <strong>[ BACKEND & LOGIC ]</strong> Node.js | NestJS | Python | Django | PHP (Laravel & CodeIgniter)
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css" alt="Frontend Tech" />
+  <br>
+  <strong>[ FRONTEND & UI ]</strong> React | Next.js | TypeScript | Tailwind CSS | Angular
 </p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,github,postman" alt="Tools Tech" />
   <br>
-  <strong>[ DATA & INFRA ]</strong> MySQL | MongoDB | Firebird | Docker | GitHub | Postman | REST APIs
+  <strong>[ INFRA & DATA ]</strong> SQL Expert (MySQL, Firebird) | MongoDB | Docker | REST APIs | ERP Integrations
 </p>
 
 ---
 
-## 🚀 Proyectos de Alto Impacto (Gobernanza & Industria)
+## 🚀 Proyectos de Alto Impacto
 
 <div align="center">
   <table width="90%">
     <tr>
-      <td width="33%">
+      <td width="33%" align="center">
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Business/dashboard.gif" alt="Dashboard KPI" width="100%" />
         <br>
         <strong>🖥️ Monitoreo Electoral (INE)</strong>
-        <p>Desarrollo de Dashboards KPI de alto rendimiento para el seguimiento de procesos electorales en tiempo real (React/Tailwind/Python). Enfoque en visualización clara de datos complejos.</p>
+        <p>Apps KPI de alto rendimiento para seguimiento electoral en tiempo real.</p>
       </td>
-      <td width="33%">
+      <td width="33%" align="center">
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Business/ecommerce.gif" alt="Ecommerce" width="100%" />
         <br>
-        <strong>🛍️ E-commerce & Logística</strong>
-        <p>Construcción de e-commerce desde cero. Integración de pagos (**Stripe, PayPal, Mercado Pago**) y sistemas de surtido con gestión de lotes, PEPS y conexión a ERPs (**Odoo, Aspel, Vtiger**).</p>
+        <strong>🛍️ E-commerce & ERPs</strong>
+        <p>Integración de pagos y sistemas de surtido (Lotes/PEPS) conectados a Odoo, Aspel y Vtiger.</p>
       </td>
-      <td width="33%">
+      <td width="33%" align="center">
         <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Business/recruitment.gif" alt="RH con IA" width="100%" />
         <br>
-        <strong>🤖 IA en Recursos Humanos</strong>
-        <p>Sistemas de control interno y gestión de RH integrando IA para la optimización del reclutamiento, diseñado para la experiencia del aplicante (CodeIgniter/Angular).</p>
+        <strong>🤖 IA en RH</strong>
+        <p>Automatización de reclutamiento inteligente diseñado para optimizar el flujo de selección.</p>
       </td>
     </tr>
   </table>
 </div>
 
-### 🏛️ Trayectoria Institucional (UAM & CONACYT)
-- **CODDAA-UAM (Actual):** Colaboración para la sistematización y agilización de procesos administrativos institucionales (React/Django).
-- **CONACYT:** Desarrollo de sistemas de gestión editorial científica (Laravel).
-- **Asesoría UAM:** Mentoria en C y Java y gestión de laboratorios multi-plataforma.
+---
+
+## 🎹 Perfil Personal
+* **Músico y Docente:** Profesor de piano y guitarra. Entiendo el software como una composición: estructura, ritmo y ejecución precisa.
+* **Biker (Z250):** Pasión por la ruta y la disciplina del mantenimiento técnico.
 
 ---
 
-## 🎹 El Lado Humano & Creativo
-
-> *"Un gran sistema es como una gran sinfonía: armónico, estructurado y capaz de mover emociones."*
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Art/piano.gif" width="150px" alt="Piano" />
-      <br>
-      <strong>Músico Activo</strong>
-      <p>Profesor de piano y guitarra. La composición me ha enseñado la importancia de la estructura y la armonía.</p>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/Travel/motorcycle.gif" width="150px" alt="Moto" />
-      <br>
-      <strong>Biker (Z250)</strong>
-      <p>La carretera me enseña libertad, pero también la disciplina del mantenimiento preventivo y la atención al detalle.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📫 Hablemos de su Próximo Proyecto
-
-¿Busca un Senior que pueda llevar su visión técnica al siguiente nivel con un enfoque en la experiencia de usuario?
-**¡Conectemos!**
-
+## 📫 Contacto
+**¿Busca un Arquitecto de Software que hable el lenguaje de su negocio?**
 <p align="center">
   <a href="mailto:armancma777@gmail.com">📩 Hablemos</a>
 </p>
