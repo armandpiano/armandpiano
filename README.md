@@ -135,6 +135,7 @@ Uso IA como multiplicador técnico y de productividad.
 - Gemini
 - GPT
 - MiniMax
+- DeepSeek
 
 ### Aplicaciones reales
 - Diseño de arquitectura
@@ -282,9 +283,6 @@ Uso IA como multiplicador técnico y de productividad.
   <img src="https://streak-stats.demolab.com?user=armandpiano&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=armandpiano&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=armandpiano&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
