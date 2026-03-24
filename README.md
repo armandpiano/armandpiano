@@ -10,7 +10,7 @@
 
 <p align="center">
   <b>Arquitectura de Software · Desarrollo Fullstack · Inteligencia Artificial Aplicada</b><br>
-  <i>UAM Iztapalapa · +9 años construyendo sistemas reales, robustos y escalables</i>
+  <i>UAM Iztapalapa · +8 años construyendo sistemas reales, robustos y escalables</i>
 </p>
 
 <p align="center">
